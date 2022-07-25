@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/lighthouse/static/js/main.9fa40681.js",
+    "index.html": "/lighthouse/index.html",
+    "main.9fa40681.js.map": "/lighthouse/static/js/main.9fa40681.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9fa40681.js"
+  ]
+}
